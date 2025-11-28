@@ -12,7 +12,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@nestjs/common": "^7.4.4",
-    "@nestjs/core": "^7.4.4",
+    "@nestjs/core": "^11.1.6",
     "@nestjs/platform-express": "^7.4.4",
     "bcrypt": "^5.0.0",
     "connect-pg-simple": "^6.2.1",
@@ -21,15 +21,15 @@
     "express-session": "^1.17.0",
     "ky": "^0.23.0",
     "ky-universal": "^0.8.2",
-    "next": "^9.5.3",
-    "passport": "^0.4.1",
+    "next": "^15.5.2",
+    "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "pg": "^8.3.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.6.3",
-    "typeorm": "^0.2.26"
+    "typeorm": "^0.3.26"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.0",
